@@ -1,0 +1,67 @@
+div.scrollmenu {
+    background-color: #3cbce4;
+    overflow: auto;
+    white-space: nowrap;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    border-radius: 5px; 
+}
+
+  
+  div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  div.scrollmenu a:hover {
+    background-color: #777;
+  }
+
+  #TopImage{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+#TopText {
+    background-color: #3cbce4; 
+    color: black; 
+    text-align: center;
+    margin: 0;
+    padding: 10px; 
+    box-sizing: border-box;
+}
+
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.d {
+    width: auto;
+    height: auto;
+    padding: 20px;
+    margin: 15px;
+    overflow: auto;
+    border: 1px solid #ccc;
+}
+
+.ds{
+    width: auto;
+    height: auto;
+    padding: 0px;
+    margin: 0px;
+    overflow: auto;
+}
+
+.Titles{
+    text-align: center;
+    font-weight: bold;
+}
